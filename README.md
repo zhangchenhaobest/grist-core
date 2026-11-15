@@ -1,3 +1,29 @@
+# grist-core
+
+[English](#english) | [简体中文](#简体中文)
+
+---
+
+## English
+
+Grist is the evolution of spreadsheets.
+
+> This repository is a fork. For full documentation, see the upstream repository.
+
+[简体中文](#简体中文)
+
+---
+
+## 简体中文
+
+Grist：电子表格的进化形态。
+
+> 本项目为 fork，详细文档请以原仓库为准。
+
+[English](#english)
+
+---
+
 # Grist
 
 Grist is a modern relational spreadsheet. It combines the flexibility of a spreadsheet with the robustness of a database.
